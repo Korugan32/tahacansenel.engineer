@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Creatio-2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-26T02:04:07+00:00\n"
+"PO-Revision-Date: 2023-09-25 12:52:17+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr "Extrem de mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr "3X (mare)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4X Large"
+msgstr "4X (mare)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "5X Large"
+msgstr "5X (mare)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/hidden-no-results-content.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr "Conținut ascuns fără rezultate"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Prim-plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fundal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: patterns/byline-date.php:16
+msgctxt "Preposition: Refers to the post publish date"
+msgid "on"
+msgstr "pe"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:21
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/footer.php:23
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/hidden-no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#. Description of the theme
+msgid "Creatio 2 is a simple, minimal theme that supports full-site editing and global styles. Use it to create something beautiful."
+msgstr "Creatio 2 este o temă simplă care suportă Editare completă site și stiluri globale. Folosește-o pentru a crea ceva frumos."
